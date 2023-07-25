@@ -1,0 +1,16 @@
+programa
+{
+	
+	funcao inicio()
+	{
+      inteiro a, antes
+
+      escreva ("Digite um número: ")
+      leia (a)
+
+      antes= a - 1
+
+      escreva (" O antecessor de: ", a, " ---> é: ", antes)
+	 	
+	}
+}
